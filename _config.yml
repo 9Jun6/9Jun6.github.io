@@ -1,8 +1,8 @@
 # Site settings
-title:        "block-Log"
-description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
+title:        "Dev Cho's blog"
+description:  "Cho Hyunjun - currently work @ Samsung sds"
 baseurl:      "" # the subpath of your site, e.g. /blog/
-url:          "http://yourdomain.com" # the base hostname & protocol for your site
+url:          "https://9Jun6.github.io" # the base hostname & protocol for your site
 permalink:    /:year/:title
 github:       "yourusername"
 twitter:      "yourusername"
